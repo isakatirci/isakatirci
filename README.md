@@ -65,5 +65,3 @@ When I'm not coding, I enjoy **bodybuilding**, playing **chess**, reading, and k
 *   **LinkedIn:** [linkedin.com/in/isakatirci2022](https://www.linkedin.com/in/isakatirci2022)
 *   **Email:** isakatirci2024@gmail.com
 
-<!-- Optional: GitHub Stats -->
-![İsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=isakatirci&show_icons=true&theme=minimal)
